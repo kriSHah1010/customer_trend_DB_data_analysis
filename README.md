@@ -6,7 +6,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Database-orange)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-green)
-
+ 
 ## Overview
 
 This project analyzes customer shopping behavior using Python, SQL, SQLite, and Power BI.  
