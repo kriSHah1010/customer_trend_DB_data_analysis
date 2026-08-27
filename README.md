@@ -45,7 +45,7 @@ The goal is to uncover patterns in customer trends, purchasing behavior, and bus
 Customer-Trends-Data-Analysis/
 ├── customer_shopping_behavior.csv
 ├── customer_behavior_sql_queries.sql
-├── customer_behavior_dashboard.pbix
+├── customer_behavior_dashboard.pbix 
 ├── Customer_Shopping_Behavior_Analysis.ipynb
 ├── Customer-Shopping-Behavior-Analysis.pptx
 ├── Business Problem Document.pdf
