@@ -7,7 +7,7 @@
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-green)
  
-## Overview    
+## Overview      
      
 This project analyzes customer shopping behavior using Python, SQL, SQLite, and Power BI.  
 The goal is to uncover patterns in customer trends, purchasing behavior, and business performance through data cleaning, querying, and dashboard visualization. This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.   
