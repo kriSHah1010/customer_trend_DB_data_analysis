@@ -21,7 +21,7 @@ The goal is to uncover patterns in customer trends, purchasing behavior, and bus
   
 
 ## 📌 Project Overview
-
+   
 ✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
 
 ✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
