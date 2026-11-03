@@ -13,7 +13,7 @@ This project analyzes customer shopping behavior using  Python, SQL, SQLite, and
 The goal is to uncover patterns in customer trends, purchasing behavior, and business performance through data cleaning, querying, and dashboard visualization. This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.   
   
 ## Project Highlights
-
+  
 - Cleaned and explored customer shopping data in Python
 - Stored and queried data using SQLite and SQL
 - Built an interactive Power BI dashboard
