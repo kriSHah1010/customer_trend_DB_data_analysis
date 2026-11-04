@@ -1,5 +1,5 @@
 ![Dashboard Overview](assets/pbix_DB.jpg)
-
+ 
 # Customer Trends Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
