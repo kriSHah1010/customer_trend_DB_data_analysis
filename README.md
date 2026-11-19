@@ -14,7 +14,7 @@ The goal is to uncover patterns in customer trends, purchasing behavior, and bus
   
 ## Project Highlights
   
-- Cleaned and explored customer shopping data in Python
+- Cleaned and explored customer shopping data in Python 
 - Stored and queried data using SQLite and SQL
 - Built an interactive Power BI dashboard
 - Documented business findings and analysis in a professional format
